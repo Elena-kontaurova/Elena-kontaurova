@@ -37,9 +37,9 @@
 
 ###
 
-<p align="center">
- <img width="600" src="/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+
+![snake gif](https://github.com/Elena-kontaurova/Elena-kontaurova/blob/output/github-contribution-grid-snake.svg)" alt="snake"/>
+
 
 ###
 
