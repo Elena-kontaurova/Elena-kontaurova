@@ -31,6 +31,8 @@
 <h3 align="left">👩‍💻  Обо мне: </h3>
 <h4 align="center"> Тут что-то обо мне </h4>
 
+![snake](https://github.com/Elena-kontaurova/Elena-kontaurova/blob/output/github-contribution-grid-snake-dark.svg)
+
 ###
 
 <h3 align="left">🛠 Языки и инструменты:</h3>
