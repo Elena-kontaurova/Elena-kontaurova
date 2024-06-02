@@ -33,12 +33,7 @@
 ###
 
 <p align="left">Пока так </p>
-
-
-###
-
-
-![snake gif](https://github.com/Elena-kontaurova/Elena-kontaurova/blob/output/github-contribution-grid-snake.svg)" alt="snake"/>
+![snake gif](https://github.com/Elena-kontaurova/Elena-kontaurova/blob/output/github-contribution-grid-snake.svg)"/>
 
 
 ###
@@ -50,7 +45,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://fuzeservers.ru/wp-content/uploads/3/f/c/3fc6c4fed60c21db7b7c5df563cde2a4.jpeg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
 ###
@@ -60,5 +55,9 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Elena-kontaurova&theme=dark&hide_border=)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-kontaurova)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-kontaurova)](https://github.com/anuraghazra/github-readme-stats)
+
+[![codewars](https://www.codewars.com/users/Elena-kontaurova/badges/large)](https://www.codewars.com/users/Elena-kontaurova)
 
 ###
