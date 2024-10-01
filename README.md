@@ -82,3 +82,5 @@
 </div>
 
 ###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Elena-kontaurova&the)](https://github.com/ryo-ma/github-profile-trophy)
