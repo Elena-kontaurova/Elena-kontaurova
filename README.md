@@ -71,6 +71,8 @@
 <h3 align="left">🔥 Моя статистика :</h3>
 
 <div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Elena-kontaurova&theme=dark&locale=ru)](https://git.io/streak-stats)
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Elena-kontaurova&theme=dark&hide_border=)](https://git.io/streak-stats)
   
