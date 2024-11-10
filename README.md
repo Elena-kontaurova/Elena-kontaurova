@@ -92,7 +92,7 @@ My name is Elena Kontaurova
 </p> 
 
  ### Socials 
-<p align="center"> 
+<p align="left"> 
   <a href="https://www.github.com/Elena-Kontaurova" target="_blank" rel="noreferrer"> 
     <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
@@ -111,7 +111,7 @@ My name is Elena Kontaurova
 
 <div width="100%" align="center">
   <a href="https://github.com/Elena-kontaurova/api_base_project" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Kontaurova&repo=аpi-base-project&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Kontaurova&repo=аpi_base_project&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en" />
   </a>
 </div>
 
