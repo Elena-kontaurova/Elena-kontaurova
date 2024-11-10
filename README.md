@@ -13,12 +13,13 @@ Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127
 My name is Elena Kontaurova       
 =============================================================================
   
-Я учусь по специальности «Информационные системы и программирование». Мой путь в программировании начался с верстки на HTML. Когда я поступила в колледж, я начала изучать Python и погружаться в его мир. Позже я попробовала себя в C#, но вскоре решила заняться 3D-моделированием на Blender. Этот опыт оказался очень увлекательным, но в итоге я вернулась к Python. Сейчас я работаю с SQL, API и создаю боты для Telegram. Мне нравится разнообразие технологий, с которыми я работаю, и я стремлюсь развиваться в этой области. Уверена, что впереди меня ждёт ещё много интересного!  
-  * 🖥️  See my portfolio at [Портфолио блендер](http://www.fl.ru/users/kontaurova0306/portfolio/)
+I study Information Systems and Programming. My path in programming began with HTML layout. When I entered college, I started learning Python and immerse myself in its world. Later I tried myself in C#, but soon decided to do 3D modeling on Blender.This experience turned out to be very exciting, but in the end I returned to Python. 
+Now I work with SQL, API and create bots for Telegram. I like the variety of technologies I work with, and I strive to develop in this area. I'm sure there's a lot more interesting ahead of me!
+  * 🖥️  See my portfolio at [Blender](http://www.fl.ru/users/kontaurova0306/portfolio/)
   * ✉️  You can contact me at [Kontaurova0306@mail.ru](mailto:Kontaurova0306@mail.ru)
   * 🚀  I'm currently working on [FastAPI](http://GitHub.com/Elena-kontaurova/api_base_project)
   * 🧠  I'm learning FastAPI, SQL
-  * 🤝  I'm open to collaborating on Над любыми интересными проектами
+  * 🤝  I'm open to collaborating on: over any interesting projects
 
 
 ### 
@@ -117,7 +118,7 @@ My name is Elena Kontaurova
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Elena-kontaurova&theme=dark&locale=ru)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Elena-kontaurova&theme=dark&locale=en)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-kontaurova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-kontaurova&theme=dark&show_icons=true)
