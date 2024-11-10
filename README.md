@@ -6,8 +6,9 @@
 </div>
 
 ###
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elena Kontaurova ========================================================================================================================================  
-Я учусь по специальности «Информационные системы и программирование». Мой путь в программировании начался с верстки на HTML. Когда я поступила в колледж, я начала изучать Python и погружаться в его мир. Позже я попробовала себя в C#, но вскоре решила заняться 3D-моделированием на Blender. Этот опыт оказался очень увлекательным, но в итоге я вернулась к Python. Сейчас я работаю с SQL, API и создаю боты для Telegram. Мне нравится разнообразие технологий, с которыми я работаю, и я стремлюсь развиваться в этой области. Уверена, что впереди меня ждёт ещё много интересного!  * 🖥️  See my portfolio at [Портфолио блендер](http://www.fl.ru/users/kontaurova0306/portfolio/)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Elena Kontaurova ========================================================================================================================================  
+Я учусь по специальности «Информационные системы и программирование». Мой путь в программировании начался с верстки на HTML. Когда я поступила в колледж, я начала изучать Python и погружаться в его мир. Позже я попробовала себя в C#, но вскоре решила заняться 3D-моделированием на Blender. Этот опыт оказался очень увлекательным, но в итоге я вернулась к Python. Сейчас я работаю с SQL, API и создаю боты для Telegram. Мне нравится разнообразие технологий, с которыми я работаю, и я стремлюсь развиваться в этой области. Уверена, что впереди меня ждёт ещё много интересного!  
+* 🖥️  See my portfolio at [Портфолио блендер](http://www.fl.ru/users/kontaurova0306/portfolio/)
 * ✉️  You can contact me at [Kontaurova0306@mail.ru](mailto:Kontaurova0306@mail.ru)
 * 🚀  I'm currently working on [FastAPI](http://GitHub.com/Elena-kontaurova/api_base_project)
 * 🧠  I'm learning FastAPI, SQL
@@ -78,41 +79,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </a>
 </p>
 
-### Badges
-
-<b>
-My GitHub Stats
-</b>
-
-<a href="http://www.github.com/Elena-Kontaurova">
-<img src="https://github-readme-stats.vercel.app/api?username=Elena-Kontaurova&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&show_icons=true" alt="Elena-Kontaurova's GitHub stats" />
-</a>
-<a href="http://www.github.com/Elena-Kontaurova">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elena-Kontaurova&stroke=ffffff&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
-<a href="http://www.github.com/Elena-Kontaurova">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Elena-Kontaurova&bg_color=27272a&color=ffffff&line=14b8a6&point=ffffff&area_color=27272a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-</a>
-<a href="https://github.com/Elena-Kontaurova" align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-Kontaurova&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a>
-
 <b>
   Top Repositories
 </b>
 
 <div width="100%" align="center">
-  <a href="https://github.com/Elena-Kontaurova/аpi-base-project" align="left">
+  <a href="https://github.com/Elena-Kontaurova/аpi_base_project" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Kontaurova&repo=аpi-base-project&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en" />
   </a>
 </div>
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 
 ###
 
