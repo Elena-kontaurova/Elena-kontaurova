@@ -105,17 +105,7 @@ My name is Elena Kontaurova
     </a>
 </p>
 
-###
 
-<b>
-  Top Repositories
-</b>
-
-<div width="100%" align="center">
-  <a href="https://github.com/Elena-Kontaurova/аpi-base-project.git" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Kontaurova&repo=аpi-base-project&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en" />
-  </a>
-</div>
 
 ###
 
