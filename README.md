@@ -92,7 +92,7 @@ My name is Elena Kontaurova
 </p> 
 
  ### Socials 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.github.com/Elena-Kontaurova" target="_blank" rel="noreferrer"> 
     <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
@@ -121,7 +121,7 @@ My name is Elena Kontaurova
 
 ###
 
-<h3 align="left">🔥 Моя статистика :</h3>
+<h3 align="left">🔥 My statistics :</h3>
 
 <div align="center">
 
