@@ -116,39 +116,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 ###
 
-<h3 align="left">🛠 Языки и инструменты:</h3>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" title="HTML5" alt="HTML" width="60" height="35"/>&nbsp;
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" title="Python" alt="Python" width="60" height="35"/>&nbsp;
-  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" title="C#" alt="C#" width="60" height="35"/>&nbsp;
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" title="Git" **alt="Git" width="60" height="35"/>&nbsp;
-  <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" title="PowerShell" alt="PowerShell" width="75" height="35"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" title="visual-studio-code" alt="visual-studio-code" width="105" height="35"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" width="60" height="35"/>
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" title="SQLite" alt="SQLite" width="60" height="35"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" title="Linux" alt="Linux" width="70" height="35"/>
-  <img src="https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white" title="Windows 11" alt="Windows 11" width="75" height="35"/>
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" title="Blender" alt="Blender" width="60" height="35"/>
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" title="Canva" alt="Canva" width="60" height="35"/>
-</div>
-
-###
-
 <h3 align="left">🔥 Моя статистика :</h3>
 
 <div align="center">
