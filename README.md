@@ -7,12 +7,20 @@
 
 ###
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Elena Kontaurova =============================================================================
+
 Я учусь по специальности «Информационные системы и программирование». Мой путь в программировании начался с верстки на HTML. Когда я поступила в колледж, я начала изучать Python и погружаться в его мир. Позже я попробовала себя в C#, но вскоре решила заняться 3D-моделированием на Blender. Этот опыт оказался очень увлекательным, но в итоге я вернулась к Python. Сейчас я работаю с SQL, API и создаю боты для Telegram. Мне нравится разнообразие технологий, с которыми я работаю, и я стремлюсь развиваться в этой области. Уверена, что впереди меня ждёт ещё много интересного!  
 * 🖥️  See my portfolio at [Портфолио блендер](http://www.fl.ru/users/kontaurova0306/portfolio/)
 * ✉️  You can contact me at [Kontaurova0306@mail.ru](mailto:Kontaurova0306@mail.ru)
 * 🚀  I'm currently working on [FastAPI](http://GitHub.com/Elena-kontaurova/api_base_project)
 * 🧠  I'm learning FastAPI, SQL
 * 🤝  I'm open to collaborating on Над любыми интересными проектами
+
+
+### 
+
+<a href="https://www.github.com/Elena-Kontaurova" target="_blank" rel="noreferrer">
+<img src="https://img.shields.io/github/followers/Elena-Kontaurova?logo=github&style=for-the-badge&color=14b8a6&labelColor=27272a" />
+</a>
 
 ###
 
@@ -30,12 +38,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Elena-kontaurova.Elena-kontaurova&"  />
 </div>
-
-###
-
-<a href="https://www.github.com/Elena-Kontaurova" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/Elena-Kontaurova?logo=github&style=for-the-badge&color=14b8a6&labelColor=27272a" />
-</a>
 
 ### Skills  
 
@@ -106,23 +108,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <a href="https://github.com/Elena-Kontaurova/аpi_base_project" align="left">
     <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Elena-Kontaurova&repo=аpi-base-project&title_color=ffffff&text_color=ffffff&icon_color=14b8a6&bg_color=27272a&hide_border=true&locale=en" />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <a href="https://vk.com/leenkaa_y" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Vkontakte&logo=vkontakte&label=&color=0000ff.&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vkontakte logo"  />
-  </a>
-  <a href="https://t.me/Leka_sv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Elena-kontaurova.Elena-kontaurova&"  />
 </div>
 
 ###
