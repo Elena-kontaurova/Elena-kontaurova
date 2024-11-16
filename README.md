@@ -20,6 +20,7 @@ Now I work with SQL, API and create bots for Telegram. I like the variety of tec
   * 🚀  I'm currently working on [FastAPI](http://GitHub.com/Elena-kontaurova/api_base_project)
   * 🧠  I'm learning FastAPI, SQL
   * 🤝  I'm open to collaborating on: over any interesting projects
+  * ❤️  See my portfolio at [Портфолио дизайнера](http://bento.me/elenakontaurova)
 
 
 ### 
@@ -71,6 +72,9 @@ Now I work with SQL, API and create bots for Telegram. I like the variety of tec
   </a>
   <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   </a>
   <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" />
