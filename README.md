@@ -17,8 +17,8 @@ I study Information Systems and Programming. My path in programming began with H
 Now I work with SQL, API and create bots for Telegram. I like the variety of technologies I work with, and I strive to develop in this area. I'm sure there's a lot more interesting ahead of me!
   * 🖥️  See my portfolio at [Blender](http://www.fl.ru/users/kontaurova0306/portfolio/)
   * ✉️  You can contact me at [Kontaurova0306@mail.ru](mailto:Kontaurova0306@mail.ru)
-  * 🚀  I'm currently working on [FastAPI](http://GitHub.com/Elena-kontaurova/api_base_project)
-  * 🧠  I'm learning FastAPI, SQL
+  * 🚀  I'm currently working on [play_modul](https://github.com/Elena-kontaurova/play_modul.git)
+  * 🧠  I'm learning Python
   * 🤝  I'm open to collaborating on: over any interesting projects
   * ❤️  See my portfolio at [Портфолио дизайнера](http://bento.me/elenakontaurova)
 
