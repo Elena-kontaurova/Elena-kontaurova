@@ -2,7 +2,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://www.funnyart.club/uploads/posts/2022-12/1671844092_www-funnyart-club-p-kotik-za-kompyuterom-estetichno-5.jpg"  />
+  <img height="300" width="600" src="https://i.ytimg.com/vi/x4UCEMSMKQk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGG4gMyhyMA8=&amp;rs=AOn4CLARdtTuGI2k5FJ0ObmoJqvfxtldhA"  />
 </div>
 
 ###
