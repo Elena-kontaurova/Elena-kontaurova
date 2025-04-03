@@ -94,8 +94,7 @@ Now I work with Python. I like the variety of technologies I work with, and I st
 <h3 align="left">🔥 My statistics :</h3>
 
 <div align="center">
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Elena-kontaurova&theme=dark&locale=en)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Elena-kontaurova&theme=dark&locale=ru)](https://git.io/streak-stats)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-kontaurova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-kontaurova&theme=dark&show_icons=true)
