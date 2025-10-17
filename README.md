@@ -97,8 +97,9 @@ Now I work with Python. I like the variety of technologies I work with, and I st
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=Elena-kontaurova&theme=dark&locale=ru)](https://git.io/streak-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-kontaurova&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-kontaurova&theme=dark&show_icons=true)
+
+  <a href="https://github.com/theDmitr" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-kontaurova&langs_count=100&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Languages" /></a> 
   
   [![codewars](https://www.codewars.com/users/Elena-kontaurova/badges/large)](https://www.codewars.com/users/Elena-kontaurova)
   
