@@ -12,35 +12,6 @@
 Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 My name is Elena Kontaurova       
 =============================================================================
-  
-I study Information Systems and Programming. My path in programming began with HTML layout. When I entered college, I started learning Python and immerse myself in its world. Later I tried myself in C#, but soon decided to do 3D modeling on Blender.This experience turned out to be very exciting, but in the end I returned to Python. 
-Now I work with Python. I like the variety of technologies I work with, and I strive to develop in this area. I'm sure there's a lot more interesting ahead of me!
-  * 🖥️  See my portfolio at [Blender](http://www.fl.ru/users/kontaurova0306/portfolio/)
-  * ✉️  You can contact me at [Kontaurova0306@mail.ru](mailto:Kontaurova0306@mail.ru)
-  * 🚀  I'm currently working on [play_modul](https://github.com/Elena-kontaurova/play_modul.git)
-  * 🧠  I'm learning Python
-  * 🤝  I'm open to collaborating on: over any interesting projects
-  * ❤️  See my portfolio at [Портфолио дизайнера](http://bento.me/elenakontaurova)
-
-
-### 
-
-<a href="https://www.github.com/Elena-Kontaurova" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/Elena-Kontaurova?logo=github&style=for-the-badge&color=14b8a6&labelColor=27272a" />
-</a>
-
-###
-
-<div align="center">
-  <a href="https://vk.com/leenkaa_y" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Vkontakte&logo=vkontakte&label=&color=0000ff.&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="vkontakte logo"  />
-  </a>
-  <a href="https://t.me/Leka_sv" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Elena-kontaurova.Elena-kontaurova&"  />
