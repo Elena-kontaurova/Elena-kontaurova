@@ -37,7 +37,8 @@ My name is Elena Kontaurova
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Elena-kontaurova&theme=dark&show_icons=true)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-kontaurova&exclude_repo=github-readme-stats,anuraghazra.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=100)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elena-kontaurova&exclude_repo=github-readme-stats,anuraghazra.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&langs_count=90)
   
   [![codewars](https://www.codewars.com/users/Elena-kontaurova/badges/large)](https://www.codewars.com/users/Elena-kontaurova)
   
